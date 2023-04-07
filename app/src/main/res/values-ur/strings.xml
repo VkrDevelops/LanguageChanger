@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LanguageChanger</string>
+    <string name="hello_world">ہیلو ورلڈ</string>
+    <string name="how_are_you_everyone">کیسے ہیں آپ سب؟</string>
+    <string name="english">انگریزی</string>
+    <string name="urdu">اردو</string>
+</resources>
